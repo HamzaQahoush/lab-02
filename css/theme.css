@@ -1,0 +1,11 @@
+select{
+    background-color: #e9c46a;
+    border-radius: 5px;
+    color: black;
+    padding: 10px 32px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 700;
+    margin-left: 43%;
+    margin-top: 60px;
+  }
