@@ -1,9 +1,10 @@
 section{
     box-sizing: border-box;
-    border: gray 1px solid;
+    border: gray 5px solid;
+    border-radius: 35px;
     width: 290px;
     height: 450px;
-    background-color: #f4a261;
+    background-color: #490e55;
     margin: auto;
     display: inline-block;
     margin-top: 90px;

@@ -1,11 +1,13 @@
 select{
-    background-color: #e9c46a;
+    background-color: #ffffff;
     border-radius: 5px;
-    color: black;
+    color: rgb(0, 0, 0);
     padding: 10px 32px;
     text-align: center;
-    font-size: 13px;
-    font-weight: 700;
+    box-shadow: rgb(0, 0, 0) red;
+    font-size: 18px;
+    font-weight: 700px;
+    
     margin-left: 43%;
     margin-top: 60px;
   }

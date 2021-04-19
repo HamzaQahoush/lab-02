@@ -2,11 +2,10 @@ h1 {
     font-size: 55px;
     text-align: center;
     margin-top: 50px;
-    font-family: cursive;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bolder;
-    text-shadow: 3px white;
     text-decoration: underline;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   
   
@@ -20,6 +19,7 @@ h1 {
     font-size: 20px;
     font-weight: bolder;
     font-family: cursive;
+    padding: 2px;
     margin-bottom: 9px;
     font-family: 'Montserrat', sans-serif;
   }
@@ -31,5 +31,8 @@ h1 {
     text-align: center;
     font-size: 15px;
     font-weight: 700;
+    padding: 2px;
+    position: relative;
+    top:30px;
     font-family: 'Montserrat', sans-serif;
   }

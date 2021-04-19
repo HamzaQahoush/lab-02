@@ -1,9 +1,11 @@
 *{
     margin: 0;
     padding: 0;
+    color: white;
     font-family: 'Montserrat', sans-serif;
   }
   body {
     width: 100%;
-    background-color:#e76f51;
+    background-color:#725494;
     font-family: 'Montserrat', sans-serif;
+  }
